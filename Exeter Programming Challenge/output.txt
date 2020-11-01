@@ -2,87 +2,88 @@ The number of top level pages are 54
 
 
 <----- Page Titles of Top level Pages ----->
-1 February 2019 - Exeter
-2 Client - Exeter
-3 Exeter - Events
-4 The Death of the PDF? - Exeter
-5 Exeter - Happy Authors and Delighted Publishers
-6 LinkedIn
-7 Exeter - Services
+1 Terms and Conditions - Exeter
+2 Why do I need another ID? - Exeter
+3 Making collaboration work - Exeter
+4 Exeter Premedia's (@exeterpremedia) Instagram profile • 18 photos and videos
+5 Home - Kriyadocs
+6 Jobs at Careers
+7 February 2019 - Exeter
 8 April 2018 - Exeter
-9 Exeter - All about authors and publishers
-10 Exeter - News
-11 February 2018 - Exeter
-12 Exeter - Contact Us
-13 Why do I need another ID? - Exeter
-14 Exeter Premedia - होम पेज | Facebook
-15 Home - Kriyadocs
-16 Jobs at Careers
-17 Making collaboration work - Exeter
-18 Exeter Premedia's (@exeterpremedia) Instagram profile • 18 photos and videos
-19 Exeter - Blog
-20 Terms and Conditions - Exeter
-21 Exeter - Privacy Policy - Exeter
+9 Exeter - Privacy Policy - Exeter
+10 Exeter - Blog
+11 Exeter Premedia - होम पेज | Facebook
+12 LinkedIn Login, Sign in | LinkedIn
+13 The Death of the PDF? - Exeter
+14 LinkedIn
+15 Exeter - Contact Us
+16 Exeter - News
+17 February 2018 - Exeter
+18 Client - Exeter
+19 Exeter - All about authors and publishers
+20 Exeter - Happy Authors and Delighted Publishers
+21 Exeter - Events
+22 Exeter - Services
 
 
 <----- Internal Links ----->
-1 https://www.exeterpremedia.com/contact-us
-2 https://www.exeterpremedia.com/services/#Project_Management
-3 https://www.exeterpremedia.com/services
-4 https://www.exeterpremedia.com/2019/02
-5 https://www.exeterpremedia.com/making-collaboration-work
-6 https://www.exeterpremedia.com/2018/02
-7 https://www.exeterpremedia.com/services/#Artwork
-8 https://www.exeterpremedia.com/terms-and-conditions
+1 https://www.exeterpremedia.com/exeter-privacy-policy
+2 https://www.exeterpremedia.com/services/#Data_Services
+3 https://www.exeterpremedia.com/contact-us
+4 https://www.exeterpremedia.com/services/#Editorial_Services
+5 https://www.exeterpremedia.com/services/#Artwork
+6 https://www.exeterpremedia.com/events
+7 https://www.exeterpremedia.com/about-us
+8 https://www.exeterpremedia.com/2018/02
 9 https://www.exeterpremedia.com/news
-10 https://www.exeterpremedia.com/about-us
-11 https://www.exeterpremedia.com/services/#Editorial_Services
-12 https://www.exeterpremedia.com/client
-13 https://www.exeterpremedia.com/events
-14 https://www.exeterpremedia.com/2018/04
-15 https://www.exeterpremedia.com/services/#Data_Services
-16 https://www.exeterpremedia.com/the-death-of-the-pdf
-17 https://www.exeterpremedia.com/exeter-privacy-policy
-18 https://www.exeterpremedia.com
-19 https://www.exeterpremedia.com/blog
+10 https://www.exeterpremedia.com/making-collaboration-work
+11 https://www.exeterpremedia.com/client
+12 https://www.exeterpremedia.com/services
+13 https://www.exeterpremedia.com/services/#Project_Management
+14 https://www.exeterpremedia.com/blog
+15 https://www.exeterpremedia.com
+16 https://www.exeterpremedia.com/terms-and-conditions
+17 https://www.exeterpremedia.com/2019/02
+18 https://www.exeterpremedia.com/the-death-of-the-pdf
+19 https://www.exeterpremedia.com/2018/04
 20 https://www.exeterpremedia.com/why-do-i-need-another-id
 
 
 <----- External Links ----->
-1 https://www.linkedin.com/company/markup-uk
-2 https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing
-3 https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing
-4 https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform
-5 https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon
-6 https://www.linkedin.com/feed/hashtag/?keywords=%23YAH
-7 https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19
-8 https://www.linkedin.com/feed/hashtag/?keywords=%23Books
-9 https://www.linkedin.com/in/jaishankarn
-10 https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution
-11 https://www.instagram.com/exeterpremedia
-12 http://twitter.com//statuses
-13 https://www.linkedin.com/in/augustine-k
-14 https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019
-15 https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia
-16 https://www.linkedin.com/in/parivalavan-manoharan
-17 https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors
-18 https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices
-19 https://www.linkedin.com/company/exeter-premedia-services
-20 https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE
-21 https://www.kriyadocs.com
-22 https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019
-23 https://www.facebook.com/exeterpremediaservices
-24 https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter
-25 https://careers.exeterpremedia.com/jobs/Careers
-26 https://twitter.com/Exeter_Premedia
-27 https://www.linkedin.com/in/ravi-venkataramani-8558534
-28 https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce
-29 https://www.linkedin.com/feed/hashtag/?keywords=%23Markup
-30 https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing
-31 https://www.linkedin.com/feed/hashtag/?keywords=%23Journals
-32 https://www.linkedin.com/company/2081042/admin
-33 https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya
-34 https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing""
+1 https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing""
+2 https://www.linkedin.com/company/2081042/admin
+3 https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya
+4 https://www.linkedin.com/in/ravi-venkataramani-8558534
+5 http://twitter.com//statuses
+6 https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce
+7 https://www.linkedin.com/feed/hashtag/?keywords=%23Markup
+8 https://www.instagram.com/exeterpremedia
+9 https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia
+10 https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform
+11 https://www.linkedin.com/feed/hashtag/?keywords=%23YAH
+12 https://twitter.com/Exeter_Premedia
+13 https://www.linkedin.com/feed/hashtag/?keywords=%23Books
+14 https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing
+15 https://careers.exeterpremedia.com/jobs/Careers
+16 https://www.linkedin.com/in/augustine-k
+17 https://www.kriyadocs.com
+18 https://www.linkedin.com/in/parivalavan-manoharan
+19 https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019
+20 https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019
+21 https://www.linkedin.com/company/exeter-premedia-services
+22 https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution
+23 https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing
+24 https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19
+25 https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices
+26 https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter
+27 https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE
+28 https://www.facebook.com/exeterpremediaservices
+29 https://www.linkedin.com/feed/hashtag/?keywords=%23Journals
+30 https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing
+31 https://www.linkedin.com/in/jaishankarn
+32 https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon
+33 https://www.linkedin.com/company/markup-uk
+34 https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors
 
 
 <----- Top 20 Bi-Grams ----->
@@ -100,12 +101,12 @@ The number of top level pages are 54
 12) editorial services 65
 13) data services 65
 14) lte9 lte8 63
-15) privacy policy 59
+15) privacy policy 60
 16) services data 55
 17) services artwork 55
 18) design project 50
-19) ie 7 42
-20) 7 html 42
+19) bahasa indonesia 43
+20) indonesia bahasa 43
 
 
 <----- Top 20 Tri-Grams ----->
@@ -120,81 +121,81 @@ The number of top level pages are 54
 9) services artwork design 55
 10) artwork design project 50
 11) design project management 50
-12) ie 7 html 42
-13) 7 html langen 42
-14) lte9 lte8 lte7 42
-15) lte8 lte7 endif 42
-16) lte7 endif ie 42
-17) ie 9 html 42
-18) 9 html langen 42
-19) bahasa indonesia bahasa 42
+12) bahasa indonesia bahasa 43
+13) ie 7 html 42
+14) 7 html langen 42
+15) lte9 lte8 lte7 42
+16) lte8 lte7 endif 42
+17) lte7 endif ie 42
+18) ie 9 html 42
+19) 9 html langen 42
 20) lte ie 9img 42
 
 
 <----- Webpage Size ----->
-1) https://www.linkedin.com/company/markup-uk 	 ..... 	 1461
-2) https://www.exeterpremedia.com/contact-us 	 ..... 	 111674
-3) https://www.exeterpremedia.com/services/#Project_Management 	 ..... 	 134150
-4) https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing 	 ..... 	 194954
-5) https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing 	 ..... 	 194954
-6) https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform 	 ..... 	 194954
-7) https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon 	 ..... 	 194954
-8) https://www.exeterpremedia.com/services 	 ..... 	 134150
-9) https://www.exeterpremedia.com/2019/02 	 ..... 	 128038
-10) https://www.exeterpremedia.com/making-collaboration-work 	 ..... 	 134444
-11) https://www.linkedin.com/feed/hashtag/?keywords=%23YAH 	 ..... 	 194954
-12) https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19 	 ..... 	 194954
-13) https://www.exeterpremedia.com/2018/02 	 ..... 	 116997
-14) https://www.linkedin.com/feed/hashtag/?keywords=%23Books 	 ..... 	 194954
-15) https://www.linkedin.com/in/jaishankarn 	 ..... 	 1461
-16) https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution 	 ..... 	 194954
-17) https://www.instagram.com/exeterpremedia 	 ..... 	 119541
-18) http://twitter.com//statuses 	 ..... 	 42461
-19) https://www.linkedin.com/in/augustine-k 	 ..... 	 1461
-20) https://www.exeterpremedia.com/services/#Artwork 	 ..... 	 134150
-21) https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019 	 ..... 	 194954
-22) https://www.exeterpremedia.com/terms-and-conditions 	 ..... 	 131361
-23) https://www.exeterpremedia.com/news 	 ..... 	 134518
-24) https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia 	 ..... 	 194954
-25) https://www.linkedin.com/in/parivalavan-manoharan 	 ..... 	 1461
-26) https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors 	 ..... 	 194954
-27) https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices 	 ..... 	 194954
-28) https://www.linkedin.com/company/exeter-premedia-services 	 ..... 	 1461
-29) https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE 	 ..... 	 194954
-30) https://www.exeterpremedia.com/about-us 	 ..... 	 122736
-31) https://www.exeterpremedia.com/services/#Editorial_Services 	 ..... 	 134150
-32) https://www.kriyadocs.com 	 ..... 	 109471
-33) https://www.exeterpremedia.com/client 	 ..... 	 133075
-34) https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019 	 ..... 	 194954
-35) https://www.exeterpremedia.com/events 	 ..... 	 122889
-36) https://www.facebook.com/exeterpremediaservices 	 ..... 	 222146
-37) https://www.exeterpremedia.com/2018/04 	 ..... 	 117057
-38) https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter 	 ..... 	 194954
-39) https://careers.exeterpremedia.com/jobs/Careers 	 ..... 	 22175
-40) https://twitter.com/Exeter_Premedia 	 ..... 	 43200
-41) https://www.exeterpremedia.com/services/#Data_Services 	 ..... 	 134150
-42) https://www.exeterpremedia.com/the-death-of-the-pdf 	 ..... 	 131060
-43) https://www.linkedin.com/in/ravi-venkataramani-8558534 	 ..... 	 1461
-44) https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce 	 ..... 	 194954
-45) https://www.exeterpremedia.com/exeter-privacy-policy 	 ..... 	 126312
-46) https://www.linkedin.com/feed/hashtag/?keywords=%23Markup 	 ..... 	 194954
-47) https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing 	 ..... 	 194954
-48) https://www.exeterpremedia.com 	 ..... 	 169686
-49) https://www.exeterpremedia.com/blog 	 ..... 	 121070
-50) https://www.linkedin.com/feed/hashtag/?keywords=%23Journals 	 ..... 	 194954
-51) https://www.linkedin.com/company/2081042/admin 	 ..... 	 1461
-52) https://www.exeterpremedia.com/why-do-i-need-another-id 	 ..... 	 130656
-53) https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya 	 ..... 	 194954
-54) https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing"" 	 ..... 	 194954
+1) https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing"" 	 ..... 	 194954
+2) https://www.exeterpremedia.com/exeter-privacy-policy 	 ..... 	 126312
+3) https://www.exeterpremedia.com/services/#Data_Services 	 ..... 	 134150
+4) https://www.exeterpremedia.com/contact-us 	 ..... 	 111674
+5) https://www.exeterpremedia.com/services/#Editorial_Services 	 ..... 	 129935
+6) https://www.linkedin.com/company/2081042/admin 	 ..... 	 32766
+7) https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya 	 ..... 	 194954
+8) https://www.exeterpremedia.com/services/#Artwork 	 ..... 	 134150
+9) https://www.linkedin.com/in/ravi-venkataramani-8558534 	 ..... 	 1461
+10) http://twitter.com//statuses 	 ..... 	 42461
+11) https://www.exeterpremedia.com/events 	 ..... 	 122889
+12) https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce 	 ..... 	 194954
+13) https://www.linkedin.com/feed/hashtag/?keywords=%23Markup 	 ..... 	 194954
+14) https://www.instagram.com/exeterpremedia 	 ..... 	 119517
+15) https://www.exeterpremedia.com/about-us 	 ..... 	 122736
+16) https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia 	 ..... 	 194954
+17) https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform 	 ..... 	 194954
+18) https://www.exeterpremedia.com/2018/02 	 ..... 	 116997
+19) https://www.linkedin.com/feed/hashtag/?keywords=%23YAH 	 ..... 	 194954
+20) https://www.exeterpremedia.com/news 	 ..... 	 134518
+21) https://twitter.com/Exeter_Premedia 	 ..... 	 43444
+22) https://www.exeterpremedia.com/making-collaboration-work 	 ..... 	 134444
+23) https://www.linkedin.com/feed/hashtag/?keywords=%23Books 	 ..... 	 194954
+24) https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing 	 ..... 	 194954
+25) https://careers.exeterpremedia.com/jobs/Careers 	 ..... 	 22175
+26) https://www.exeterpremedia.com/client 	 ..... 	 133075
+27) https://www.linkedin.com/in/augustine-k 	 ..... 	 1169
+28) https://www.exeterpremedia.com/services 	 ..... 	 134150
+29) https://www.exeterpremedia.com/services/#Project_Management 	 ..... 	 134150
+30) https://www.kriyadocs.com 	 ..... 	 109471
+31) https://www.linkedin.com/in/parivalavan-manoharan 	 ..... 	 1169
+32) https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019 	 ..... 	 194954
+33) https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019 	 ..... 	 194954
+34) https://www.linkedin.com/company/exeter-premedia-services 	 ..... 	 1169
+35) https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution 	 ..... 	 194954
+36) https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing 	 ..... 	 194954
+37) https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19 	 ..... 	 194954
+38) https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices 	 ..... 	 194954
+39) https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter 	 ..... 	 194954
+40) https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE 	 ..... 	 194954
+41) https://www.facebook.com/exeterpremediaservices 	 ..... 	 222241
+42) https://www.exeterpremedia.com/blog 	 ..... 	 121070
+43) https://www.linkedin.com/feed/hashtag/?keywords=%23Journals 	 ..... 	 194954
+44) https://www.exeterpremedia.com 	 ..... 	 161467
+45) https://www.exeterpremedia.com/terms-and-conditions 	 ..... 	 131361
+46) https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing 	 ..... 	 194954
+47) https://www.exeterpremedia.com/2019/02 	 ..... 	 128038
+48) https://www.linkedin.com/in/jaishankarn 	 ..... 	 1169
+49) https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon 	 ..... 	 194954
+50) https://www.linkedin.com/company/markup-uk 	 ..... 	 1169
+51) https://www.exeterpremedia.com/the-death-of-the-pdf 	 ..... 	 131060
+52) https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors 	 ..... 	 194954
+53) https://www.exeterpremedia.com/2018/04 	 ..... 	 117058
+54) https://www.exeterpremedia.com/why-do-i-need-another-id 	 ..... 	 130656
 
 
 <----- Minimum Webpage Size ----->
-1461
+1169
 
 
 <----- Maximum Webpage Size ----->
-222146
+222241
 
 
 <----- Average Webpage Size ----->
-134547
+134876
