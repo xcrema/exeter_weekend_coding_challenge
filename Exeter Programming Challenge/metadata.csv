@@ -1,0 +1,259 @@
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBE
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBc
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/history/optout?hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,referrer,origin,,
+1,viewport,"initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBI
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,format-detection,email=no,,
+1,robots,"nofollow,noindex",,
+2,,"IE=edge,chrome=1",X-UA-Compatible,
+3,description,Official Google Search Help Center where you can find tips and tutorials on using Google Search and other answers to frequently asked questions.,,
+4,viewport,"width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",,
+
+
+https://www.google.co.in/imghp?hl=en&tab=wi&ogbl
+
+,name,content,http-equiv,charset
+0,,,,UTF-8
+1,referrer,origin,,
+2,description,Google Images. The most comprehensive image search on the web.,,
+3,description,Google Images. The most comprehensive image search on the web.,,
+4,,/images/branding/googleg/1x/googleg_standard_color_128dp.png,,
+
+
+https://www.google.com
+
+,name,content,http-equiv,charset
+0,,,,UTF-8
+1,referrer,origin,,
+2,,/images/branding/googleg/1x/googleg_standard_color_128dp.png,,
+
+
+https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,viewport,"initial-scale=1, minimum-scale=1, width=device-width",,
+2,description,"Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",,
+3,,"Stay up to date with Google company news and products. Discover stories about our culture, philosophy, and how Google technology is impacting others.",,
+4,,"Google - About Google, Our Culture & Company News",,
+5,,https://lh3.googleusercontent.com/uXVic9jyqJADV4C98TjSkFX-3xxJYedpS2hce6adkNw0t7St_qPHNfhqk6XCUTlF31Pe1v64f0Oc640_0daNO6Ql0UU7_D9yYkz9=w600-l80-sg-rj,,
+6,,600,,
+7,,315,,
+8,,website,,
+9,,//www.google.co.in/,,
+10,twitter:card,summary_large_image,,
+11,twitter:site,@google,,
+12,twitter:title,"Google - About Google, Our Culture & Company News",,
+13,twitter:description,"Curious about Google? Learn more about Googleâs history, values, people, and technology.",,
+14,twitter:image,https://lh3.googleusercontent.com/uXVic9jyqJADV4C98TjSkFX-3xxJYedpS2hce6adkNw0t7St_qPHNfhqk6XCUTlF31Pe1v64f0Oc640_0daNO6Ql0UU7_D9yYkz9=w600-l80-sg-rj,,
+15,,ALL_in,,
+
+
+https://policies.google.com/terms?hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,referrer,origin,,
+1,viewport,"initial-scale=1, maximum-scale=5, width=device-width",,
+2,mobile-web-app-capable,yes,,
+3,apple-mobile-web-app-capable,yes,,
+4,application-name,Privacy & Terms – Google,,
+5,apple-mobile-web-app-title,Privacy & Terms – Google,,
+6,apple-mobile-web-app-status-bar-style,black,,
+7,msapplication-tap-highlight,no,,
+
+
+https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AFQjCNEr8BVI6ordo8O9JVYtc7A9SpG4LQ
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,,IE=edge,X-UA-Compatible,
+2,viewport,"width=device-width, initial-scale=1",,
+3,description,"Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Googleâs smarts built-in. Download now.",,
+4,msapplication-config,/chrome/static/images/favicons/browserconfig.xml,,
+5,google-site-verification,itmiGKqiqJdlp1MZmxm6fsDVQ4z37fGjwUaGN0UyANw,,
+6,twitter:card,summary_large_image,,
+7,twitter:title,"Google Chrome - Download the Fast, Secure Browser from Google",,
+8,twitter:description,"Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Googleâs smarts built-in. Download now.",,
+9,twitter:image,https://www.google.com/chrome/static/images/homepage/homepage.png,,
+10,twitter:url,https://www.google.com/chrome/,,
+11,,website,,
+12,,"Google Chrome - Download the Fast, Secure Browser from Google",,
+13,,"Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever, with Googleâs smarts built-in. Download now.",,
+14,,https://www.google.com/chrome/,,
+15,,https://www.google.com/chrome/static/images/homepage/homepage.png,,
+16,,en_US,,
+
+
+https://google.com/search/howsearchworks/?fg=1
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,,Google Search - Discover How Google Search Works,,
+2,twitter:title,Google Search - Discover How Google Search Works,,
+3,description,Wondering how Google search works? Learn how Google looks through and organizes all the information on the internet to give you the most useful and relevant Search results in a fraction of a second.,,
+4,,Wondering how Google search works? Learn how Google looks through and organizes all the information on the internet to give you the most useful and relevant Search results in a fraction of a second.,,
+5,twitter:description,Wondering how Google search works? Learn how Google looks through and organizes all the information on the internet to give you the most useful and relevant Search results in a fraction of a second.,,
+6,referrer,no-referrer,,
+7,viewport,"width=device-width, initial-scale=1.0",,
+
+
+https://policies.google.com/privacy?hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,referrer,origin,,
+1,viewport,"initial-scale=1, maximum-scale=5, width=device-width",,
+2,mobile-web-app-capable,yes,,
+3,apple-mobile-web-app-capable,yes,,
+4,application-name,Privacy & Terms – Google,,
+5,apple-mobile-web-app-title,Privacy & Terms – Google,,
+6,apple-mobile-web-app-status-bar-style,black,,
+7,msapplication-tap-highlight,no,,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBY
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBA
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/advanced_search?hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,,text/html; charset=utf-8,content-type,
+
+
+https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,viewport,"initial-scale=1, minimum-scale=1, width=device-width",,
+2,,IE=11,X-UA-Compatible,
+3,description,"Get more calls to your business, visits to your website, or customers to your store. Use Google Ads (formerly Google AdWords) to grow your business.",,
+4,,https://lh3.googleusercontent.com/nupo3HWMIUeuul9r2IBSfpBo568bL-STG9nA71dUuW97DnhAXFgm2WWjczhTFqRHQZRf5VA-_PmxIZaIAXhOUrzfr5unPjFuW9za=w0,,
+5,,1200,,
+6,,1200,,
+
+
+https://www.google.com/preferences?hl=en
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,,IE=edge,X-UA-Compatible,
+2,,0; url=https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.google.com%2F&rip=1&nojavascript=1&hl=en,refresh,
+3,description,,,
+4,viewport,"width=device-width, initial-scale=1",,
+5,format-detection,telephone=no,,
+
+
+https://www.google.co.in/intl/en/about/products?tab=wh
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,viewport,"initial-scale=1, minimum-scale=1, width=device-width",,
+2,description,"Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",,
+3,,"Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",,
+4,,Browse All of Google's Products & Services - Google,,
+5,,https://lh3.googleusercontent.com/J7XdFMUykCDgwog4DomOtioi0cW8IrGhqlHdrxY62t0WfHDmviEO4pSF1Rm96rDJ1kdKuywEX7GMzg54sHvTVq3RlaLwhkf0ZaFwyA=w600-l80-sg-rj,,
+6,,600,,
+7,,315,,
+8,,website,,
+9,,//www.google.com/products/,,
+10,twitter:card,summary_large_image,,
+11,twitter:site,@google,,
+12,twitter:title,Browse All of Google's Products & Services - Google,,
+13,twitter:description,"Browse a list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.",,
+14,twitter:image,https://lh3.googleusercontent.com/J7XdFMUykCDgwog4DomOtioi0cW8IrGhqlHdrxY62t0WfHDmviEO4pSF1Rm96rDJ1kdKuywEX7GMzg54sHvTVq3RlaLwhkf0ZaFwyA=w600-l80-sg-rj,,
+15,,ALL_ALL,,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBU
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCA8
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1
+
+,name,content,http-equiv,charset
+0,referrer,origin,,
+1,viewport,"width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no",,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBM
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/preferences?hl=en-IN&fg=1
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBQ
+
+,name,content,http-equiv,charset
+0,,text/html; charset=UTF-8,Content-Type,
+
+
+https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,viewport,"initial-scale=1, minimum-scale=1, width=device-width",,
+2,description,"Learn about the comprehensive list of service software's Google Business Solutions provides to help with data analysis, advertising, site performance and more.",,
+
+
+https://mail.google.com/mail/?tab=wm&ogbl
+
+,name,content,http-equiv,charset
+0,,,,utf-8
+1,,IE=edge,X-UA-Compatible,
+2,,0; url=https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Ftab%3Dwm%26ogbl&rip=1&nojavascript=1&service=mail&rm=false&ltmpl=default&scc=1&osid=1&emr=1,refresh,
+3,description,"Gmail is email that's intuitive, efficient and useful. 15 GB of storage, less spam, and mobile access.",,
+4,viewport,"width=device-width, initial-scale=1",,
+5,format-detection,telephone=no,,

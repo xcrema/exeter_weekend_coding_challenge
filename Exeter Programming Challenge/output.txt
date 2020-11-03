@@ -1,0 +1,151 @@
+The number of top level pages are 27
+
+
+<----- Page Titles of Top level Pages ----->
+1 തിരയൽ ക്രമീകരണം
+2 శోధన సెట్టింగ్‌లు
+3 Google Images
+4 Privacy Policy – Privacy & Terms – Google
+5 ਖੋਜ ਸੈਟਿੰਗਾਂ
+6 সার্চ সেটিংস
+7 தேடல் அமைப்புகள்
+8 Google Terms of Service – Privacy & Terms – Google
+9 Google Advanced Search
+10 Business Management Software | Google Business Solutions â Google
+11 Google – Search customisation
+12 Google Search - Discover How Google Search Works
+13 Gmail
+14 Google - About Google, Our Culture & Company News
+15 Sign in - Google Accounts
+16 ಹುಡುಕಾಟ ಸೆಟ್ಟಿಂಗ್‌ಗಳು
+17 शोध सेटिंग्ज
+18 Browse All of Google's Products & Services - Google
+19 Your data in Search
+20 Search Settings
+21 Google Search Help
+22 Google Chrome - Download the Fast, Secure Browser from Google
+23 શોધ સેટિંગ
+24 Google
+25 खोज सेटिंग
+26 Get More Customers With Easy Online Advertising | Google Ads
+
+
+<----- Internal Links ----->
+1 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBE
+2 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBc
+3 https://www.google.com/history/optout?hl=en-IN&fg=1
+4 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBI
+5 https://www.google.com
+6 https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AFQjCNEr8BVI6ordo8O9JVYtc7A9SpG4LQ
+7 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBY
+8 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBA
+9 https://www.google.com/advanced_search?hl=en-IN&fg=1
+10 https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1
+11 https://www.google.com/preferences?hl=en
+12 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBU
+13 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCA8
+14 https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1
+15 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBM
+16 https://www.google.com/preferences?hl=en-IN&fg=1
+17 https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBQ
+18 https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1
+
+
+<----- External Links ----->
+1 https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1
+2 https://www.google.co.in/imghp?hl=en&tab=wi&ogbl
+3 https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1
+4 https://policies.google.com/terms?hl=en-IN&fg=1
+5 https://google.com/search/howsearchworks/?fg=1
+6 https://policies.google.com/privacy?hl=en-IN&fg=1
+7 https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ
+8 https://www.google.co.in/intl/en/about/products?tab=wh
+9 https://mail.google.com/mail/?tab=wm&ogbl
+
+
+<----- Top 20 Bi-Grams ----->
+1) google account 60
+2) terms service 47
+3) espaãol latinoamãrica 39
+4) google services 37
+5) additional terms 34
+6) learn learn 32
+7) privacy policy 29
+8) google ads 29
+9) google chrome 28
+10) search results 27
+11) google search 26
+12) privacy terms 24
+13) â english 22
+14) chrome os 21
+15) use services 20
+16) â espaãol 20
+17) learn google 19
+18) personal information 19
+19) google terms 19
+20) chrome chrome 19
+
+
+<----- Top 20 Tri-Grams ----->
+1) â espaãol latinoamãrica 19
+2) espaãol latinoamãrica â 19
+3) google terms service 18
+4) servicespecific additional terms 17
+5) downloading chrome agree 16
+6) chrome agree google 16
+7) agree google terms 16
+8) terms service chrome 16
+9) service chrome chrome 16
+10) chrome chrome os 16
+11) chrome os additional 16
+12) os additional terms 16
+13) additional terms service 16
+14) terms service downloading 14
+15) service downloading chrome 14
+16) intellectual property rights 13
+17) 10 20 30 11
+18) 20 30 40 11
+19) 30 40 50 11
+20) 40 50 100 11
+
+
+<----- Webpage Size ----->
+1) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBE 	 ..... 	 225038
+2) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBc 	 ..... 	 234509
+3) https://www.google.com/history/optout?hl=en-IN&fg=1 	 ..... 	 227324
+4) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBI 	 ..... 	 224681
+5) https://support.google.com/websearch/?p=ws_results_help&hl=en-IN&fg=1 	 ..... 	 696260
+6) https://www.google.co.in/imghp?hl=en&tab=wi&ogbl 	 ..... 	 287282
+7) https://www.google.com 	 ..... 	 208882
+8) https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1 	 ..... 	 77152
+9) https://policies.google.com/terms?hl=en-IN&fg=1 	 ..... 	 340041
+10) https://www.google.com/url?q=https://www.google.com/chrome/%3Fbrand%3DRLNS%26utm_source%3Dgoogle.com%26utm_medium%3Dmaterial-callout%26utm_campaign%3Dsearch%26utm_content%3Dreinstall-to-stay-secure%26utm_keyword%3DRLNS&source=hpp&id=19019113&ct=7&usg=AFQjCNEr8BVI6ordo8O9JVYtc7A9SpG4LQ 	 ..... 	 204064
+11) https://google.com/search/howsearchworks/?fg=1 	 ..... 	 55771
+12) https://policies.google.com/privacy?hl=en-IN&fg=1 	 ..... 	 193305
+13) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBY 	 ..... 	 235233
+14) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBA 	 ..... 	 224975
+15) https://www.google.com/advanced_search?hl=en-IN&fg=1 	 ..... 	 232434
+16) https://www.google.com/intl/en_in/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1 	 ..... 	 110671
+17) https://www.google.com/preferences?hl=en 	 ..... 	 236454
+18) https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAAQ 	 ..... 	 1513585
+19) https://www.google.co.in/intl/en/about/products?tab=wh 	 ..... 	 210524
+20) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBU 	 ..... 	 225074
+21) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCA8 	 ..... 	 224780
+22) https://www.google.com/history/privacyadvisor/search/unauth?utm_source=googlemenu&fg=1 	 ..... 	 240129
+23) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBM 	 ..... 	 235326
+24) https://www.google.com/preferences?hl=en-IN&fg=1 	 ..... 	 236438
+25) https://www.google.com/setprefs?sig=0_GWf5-WmI5T_Yf12s21b2nlI9zsg%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwjhnPuE2uXsAhWVYysKHZHWBaMQ2ZgBCBQ 	 ..... 	 224630
+26) https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1 	 ..... 	 81694
+27) https://mail.google.com/mail/?tab=wm&ogbl 	 ..... 	 1516541
+
+
+<----- Minimum Webpage Size ----->
+55771
+
+
+<----- Maximum Webpage Size ----->
+1516541
+
+
+<----- Average Webpage Size ----->
+323066
