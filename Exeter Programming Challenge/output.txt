@@ -1,201 +1,140 @@
-The number of top level pages are 54
+The number of top level pages are 30
 
 
 <----- Page Titles of Top level Pages ----->
-1 Terms and Conditions - Exeter
-2 Why do I need another ID? - Exeter
-3 Making collaboration work - Exeter
-4 Exeter Premedia's (@exeterpremedia) Instagram profile • 18 photos and videos
-5 Home - Kriyadocs
-6 Jobs at Careers
-7 February 2019 - Exeter
-8 April 2018 - Exeter
-9 Exeter - Privacy Policy - Exeter
-10 Exeter - Blog
-11 Exeter Premedia - होम पेज | Facebook
-12 LinkedIn Login, Sign in | LinkedIn
-13 The Death of the PDF? - Exeter
-14 LinkedIn
-15 Exeter - Contact Us
-16 Exeter - News
-17 February 2018 - Exeter
-18 Client - Exeter
-19 Exeter - All about authors and publishers
-20 Exeter - Happy Authors and Delighted Publishers
-21 Exeter - Events
-22 Exeter - Services
+1 Terms of Use - Kriyadocs
+2 blog - Kriyadocs
+3 PrivacyPolicy - Kriyadocs
+4 Exeter - Happy Authors and Delighted Publishers
+5 publisherspeak - Kriyadocs
+6 Our Story - Kriyadocs
+7 Home - Kriyadocs
+8 Kriyadocs - Chennai, India | Facebook
+9 kriyadocs | LinkedIn
 
 
 <----- Internal Links ----->
-1 https://www.exeterpremedia.com/exeter-privacy-policy
-2 https://www.exeterpremedia.com/services/#Data_Services
-3 https://www.exeterpremedia.com/contact-us
-4 https://www.exeterpremedia.com/services/#Editorial_Services
-5 https://www.exeterpremedia.com/services/#Artwork
-6 https://www.exeterpremedia.com/events
-7 https://www.exeterpremedia.com/about-us
-8 https://www.exeterpremedia.com/2018/02
-9 https://www.exeterpremedia.com/news
-10 https://www.exeterpremedia.com/making-collaboration-work
-11 https://www.exeterpremedia.com/client
-12 https://www.exeterpremedia.com/services
-13 https://www.exeterpremedia.com/services/#Project_Management
-14 https://www.exeterpremedia.com/blog
-15 https://www.exeterpremedia.com
-16 https://www.exeterpremedia.com/terms-and-conditions
-17 https://www.exeterpremedia.com/2019/02
-18 https://www.exeterpremedia.com/the-death-of-the-pdf
-19 https://www.exeterpremedia.com/2018/04
-20 https://www.exeterpremedia.com/why-do-i-need-another-id
+1 https://www.kriyadocs.com/#collapse-1-10
+2 https://www.kriyadocs.com/our-story
+3 https://www.kriyadocs.com/#ensure
+4 https://www.kriyadocs.com/blog
+5 https://www.kriyadocs.com/#collapse-1-1
+6 https://www.kriyadocs.com/#collapse-1-14
+7 https://www.kriyadocs.com/#collapse-1-13
+8 https://www.kriyadocs.com/#features
+9 https://www.kriyadocs.com/terms-of-use
+10 https://www.kriyadocs.com/#enhance
+11 https://www.kriyadocs.com/#faq
+12 https://www.kriyadocs.com/#collapse-1-2
+13 https://www.kriyadocs.com/#benefits
+14 https://www.kriyadocs.com/#enable
+15 https://www.kriyadocs.com/publisherspeak
+16 https://www.kriyadocs.com/#collapse-1-4
+17 https://www.kriyadocs.com/#collapse-1-7
+18 https://www.kriyadocs.com/#collapse-1-9
+19 https://www.kriyadocs.com/#collapse-1-8
+20 https://www.kriyadocs.com/#collapse-1-6
+21 https://www.kriyadocs.com/#extend
+22 https://www.kriyadocs.com/privacypolicy
+23 https://www.kriyadocs.com
+24 https://www.kriyadocs.com/#collapse-1-5
+25 https://www.kriyadocs.com/#collapse-1-11
+26 https://www.kriyadocs.com/#collapse-1-3
 
 
 <----- External Links ----->
-1 https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing""
-2 https://www.linkedin.com/company/2081042/admin
-3 https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya
-4 https://www.linkedin.com/in/ravi-venkataramani-8558534
-5 http://twitter.com//statuses
-6 https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce
-7 https://www.linkedin.com/feed/hashtag/?keywords=%23Markup
-8 https://www.instagram.com/exeterpremedia
-9 https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia
-10 https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform
-11 https://www.linkedin.com/feed/hashtag/?keywords=%23YAH
-12 https://twitter.com/Exeter_Premedia
-13 https://www.linkedin.com/feed/hashtag/?keywords=%23Books
-14 https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing
-15 https://careers.exeterpremedia.com/jobs/Careers
-16 https://www.linkedin.com/in/augustine-k
-17 https://www.kriyadocs.com
-18 https://www.linkedin.com/in/parivalavan-manoharan
-19 https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019
-20 https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019
-21 https://www.linkedin.com/company/exeter-premedia-services
-22 https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution
-23 https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing
-24 https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19
-25 https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices
-26 https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter
-27 https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE
-28 https://www.facebook.com/exeterpremediaservices
-29 https://www.linkedin.com/feed/hashtag/?keywords=%23Journals
-30 https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing
-31 https://www.linkedin.com/in/jaishankarn
-32 https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon
-33 https://www.linkedin.com/company/markup-uk
-34 https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors
+1 https://www.facebook.com/kriyadocs
+2 https://www.exeterpremedia.com
+3 https://www.linkedin.com/showcase/kriyadocs
+4 https://twitter.com/KriyaDocs
 
 
 <----- Top 20 Bi-Grams ----->
-1) endif ie 189
-2) ie endif 189
-3) lte ie 169
-4) ie 8 126
-5) html langen 105
-6) 8 img 105
-7) alt endif 105
-8) contact us 88
-9) langen classie 84
-10) artwork design 70
-11) project management 70
-12) editorial services 65
-13) data services 65
-14) lte9 lte8 63
-15) privacy policy 60
-16) services data 55
-17) services artwork 55
-18) design project 50
-19) bahasa indonesia 43
-20) indonesia bahasa 43
+1) schedule demo 89
+2) authors publishers 65
+3) contact us 56
+4) exeter premedia 46
+5) privacy policy 45
+6) kriyadocs document 44
+7) document collaboration 44
+8) collaboration platform 44
+9) books journals 44
+10) accelerate publishing 43
+11) platform helps 43
+12) helps publish 43
+13) publish faster 43
+14) faster produce 43
+15) produce content 43
+16) content less 43
+17) less effort 43
+18) use kriyadocs 43
+19) early access 43
+20) get free 43
 
 
 <----- Top 20 Tri-Grams ----->
-1) endif ie endif 126
-2) lte ie 8 105
-3) ie 8 img 105
-4) alt endif ie 105
-5) html langen classie 84
-6) editorial services data 55
-7) services data services 55
-8) data services artwork 55
-9) services artwork design 55
-10) artwork design project 50
-11) design project management 50
-12) bahasa indonesia bahasa 43
-13) ie 7 html 42
-14) 7 html langen 42
-15) lte9 lte8 lte7 42
-16) lte8 lte7 endif 42
-17) lte7 endif ie 42
-18) ie 9 html 42
-19) 9 html langen 42
-20) lte ie 9img 42
+1) kriyadocs document collaboration 44
+2) document collaboration platform 43
+3) collaboration platform helps 43
+4) platform helps publish 43
+5) helps publish faster 43
+6) publish faster produce 43
+7) faster produce content 43
+8) produce content less 43
+9) content less effort 43
+10) authors publishers alike 42
+11) kriyadocs generate printready 42
+12) generate printready pdfs 42
+13) content accessed anytime 42
+14) authors copy editors 42
+15) copy editors proofreaders 42
+16) editors proofreaders work 42
+17) proofreaders work directly 42
+18) work directly system 42
+19) pdf show track 42
+20) show track changes 42
 
 
 <----- Webpage Size ----->
-1) https://www.linkedin.com/feed/hashtag/?keywords=%23CloudPublishing"" 	 ..... 	 194954
-2) https://www.exeterpremedia.com/exeter-privacy-policy 	 ..... 	 126312
-3) https://www.exeterpremedia.com/services/#Data_Services 	 ..... 	 134150
-4) https://www.exeterpremedia.com/contact-us 	 ..... 	 111674
-5) https://www.exeterpremedia.com/services/#Editorial_Services 	 ..... 	 129935
-6) https://www.linkedin.com/company/2081042/admin 	 ..... 	 32766
-7) https://www.linkedin.com/feed/hashtag/?keywords=%23Kriya 	 ..... 	 194954
-8) https://www.exeterpremedia.com/services/#Artwork 	 ..... 	 134150
-9) https://www.linkedin.com/in/ravi-venkataramani-8558534 	 ..... 	 1461
-10) http://twitter.com//statuses 	 ..... 	 42461
-11) https://www.exeterpremedia.com/events 	 ..... 	 122889
-12) https://www.linkedin.com/feed/hashtag/?keywords=%23Acmsvce 	 ..... 	 194954
-13) https://www.linkedin.com/feed/hashtag/?keywords=%23Markup 	 ..... 	 194954
-14) https://www.instagram.com/exeterpremedia 	 ..... 	 119517
-15) https://www.exeterpremedia.com/about-us 	 ..... 	 122736
-16) https://www.linkedin.com/feed/hashtag/?keywords=%23ExeterPremedia 	 ..... 	 194954
-17) https://www.linkedin.com/feed/hashtag/?keywords=%23AutomationPlatform 	 ..... 	 194954
-18) https://www.exeterpremedia.com/2018/02 	 ..... 	 116997
-19) https://www.linkedin.com/feed/hashtag/?keywords=%23YAH 	 ..... 	 194954
-20) https://www.exeterpremedia.com/news 	 ..... 	 134518
-21) https://twitter.com/Exeter_Premedia 	 ..... 	 43444
-22) https://www.exeterpremedia.com/making-collaboration-work 	 ..... 	 134444
-23) https://www.linkedin.com/feed/hashtag/?keywords=%23Books 	 ..... 	 194954
-24) https://www.linkedin.com/feed/hashtag/?keywords=%23ScholarlyPublishing 	 ..... 	 194954
-25) https://careers.exeterpremedia.com/jobs/Careers 	 ..... 	 22175
-26) https://www.exeterpremedia.com/client 	 ..... 	 133075
-27) https://www.linkedin.com/in/augustine-k 	 ..... 	 1169
-28) https://www.exeterpremedia.com/services 	 ..... 	 134150
-29) https://www.exeterpremedia.com/services/#Project_Management 	 ..... 	 134150
-30) https://www.kriyadocs.com 	 ..... 	 109471
-31) https://www.linkedin.com/in/parivalavan-manoharan 	 ..... 	 1169
-32) https://www.linkedin.com/feed/hashtag/?keywords=%23FrankfurtBookFair2019 	 ..... 	 194954
-33) https://www.linkedin.com/feed/hashtag/?keywords=%23MarkupUK2019 	 ..... 	 194954
-34) https://www.linkedin.com/company/exeter-premedia-services 	 ..... 	 1169
-35) https://www.linkedin.com/feed/hashtag/?keywords=%23DigitalSolution 	 ..... 	 194954
-36) https://www.linkedin.com/feed/hashtag/?keywords=%23AcademicPublishing 	 ..... 	 194954
-37) https://www.linkedin.com/feed/hashtag/?keywords=%23Fbf19 	 ..... 	 194954
-38) https://www.linkedin.com/feed/hashtag/?keywords=%23PublishingServices 	 ..... 	 194954
-39) https://www.linkedin.com/feed/hashtag/?keywords=%23Exeter 	 ..... 	 194954
-40) https://www.linkedin.com/feed/hashtag/?keywords=%23SVCE 	 ..... 	 194954
-41) https://www.facebook.com/exeterpremediaservices 	 ..... 	 222241
-42) https://www.exeterpremedia.com/blog 	 ..... 	 121070
-43) https://www.linkedin.com/feed/hashtag/?keywords=%23Journals 	 ..... 	 194954
-44) https://www.exeterpremedia.com 	 ..... 	 161467
-45) https://www.exeterpremedia.com/terms-and-conditions 	 ..... 	 131361
-46) https://www.linkedin.com/feed/hashtag/?keywords=%23Epublishing 	 ..... 	 194954
-47) https://www.exeterpremedia.com/2019/02 	 ..... 	 128038
-48) https://www.linkedin.com/in/jaishankarn 	 ..... 	 1169
-49) https://www.linkedin.com/feed/hashtag/?keywords=%23YetAnotherHackathon 	 ..... 	 194954
-50) https://www.linkedin.com/company/markup-uk 	 ..... 	 1169
-51) https://www.exeterpremedia.com/the-death-of-the-pdf 	 ..... 	 131060
-52) https://www.linkedin.com/feed/hashtag/?keywords=%23HappyAuthors 	 ..... 	 194954
-53) https://www.exeterpremedia.com/2018/04 	 ..... 	 117058
-54) https://www.exeterpremedia.com/why-do-i-need-another-id 	 ..... 	 130656
+1) https://www.kriyadocs.com/#collapse-1-10 	 ..... 	 101435
+2) https://www.kriyadocs.com/our-story 	 ..... 	 83038
+3) https://www.kriyadocs.com/#ensure 	 ..... 	 101435
+4) https://www.facebook.com/kriyadocs 	 ..... 	 186454
+5) https://www.kriyadocs.com/blog 	 ..... 	 109168
+6) https://www.kriyadocs.com/#collapse-1-1 	 ..... 	 101435
+7) https://www.kriyadocs.com/#collapse-1-14 	 ..... 	 101435
+8) https://www.kriyadocs.com/#collapse-1-13 	 ..... 	 101435
+9) https://www.kriyadocs.com/#features 	 ..... 	 101435
+10) https://www.kriyadocs.com/terms-of-use 	 ..... 	 105801
+11) https://www.kriyadocs.com/#enhance 	 ..... 	 101435
+12) https://www.kriyadocs.com/#faq 	 ..... 	 101435
+13) https://www.kriyadocs.com/#collapse-1-2 	 ..... 	 101435
+14) https://www.kriyadocs.com/#benefits 	 ..... 	 101435
+15) https://www.kriyadocs.com/#enable 	 ..... 	 101435
+16) https://www.kriyadocs.com/publisherspeak 	 ..... 	 83436
+17) https://www.kriyadocs.com/#collapse-1-4 	 ..... 	 101435
+18) https://www.kriyadocs.com/#collapse-1-7 	 ..... 	 101435
+19) https://www.kriyadocs.com/#collapse-1-9 	 ..... 	 101435
+20) https://www.kriyadocs.com/#collapse-1-8 	 ..... 	 101435
+21) https://www.kriyadocs.com/#collapse-1-6 	 ..... 	 101435
+22) https://www.exeterpremedia.com 	 ..... 	 169686
+23) https://www.kriyadocs.com/#extend 	 ..... 	 101435
+24) https://www.kriyadocs.com/privacypolicy 	 ..... 	 92605
+25) https://www.linkedin.com/showcase/kriyadocs 	 ..... 	 84459
+26) https://www.kriyadocs.com 	 ..... 	 101435
+27) https://www.kriyadocs.com/#collapse-1-5 	 ..... 	 101435
+28) https://www.kriyadocs.com/#collapse-1-11 	 ..... 	 101435
+29) https://www.kriyadocs.com/#collapse-1-3 	 ..... 	 101435
+30) https://twitter.com/KriyaDocs 	 ..... 	 42899
 
 
 <----- Minimum Webpage Size ----->
-1169
+42899
 
 
 <----- Maximum Webpage Size ----->
-222241
+186454
 
 
 <----- Average Webpage Size ----->
-134876
+102922
